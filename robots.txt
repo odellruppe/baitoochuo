@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jahkahvue.jennybjork.se/sitemap.xml
